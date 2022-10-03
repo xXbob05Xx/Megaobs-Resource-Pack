@@ -4,6 +4,8 @@
 
 [Invalid Download]
 
+[Discord](https://discord.gg/pnwNDhX7AU)
+
 [Website](https://xxbob05xx.github.io/)
 
 # Added Items/Blocks List
