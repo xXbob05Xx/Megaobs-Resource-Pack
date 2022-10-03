@@ -2,7 +2,7 @@
 
 (!) If you're using the public version, **do not extract** the files in **the ZIP**!
 
-[Download](https://xxbob05xx.github.io/megaobs/)
+[Invalid Download]
 
 [Website](https://xxbob05xx.github.io/)
 
