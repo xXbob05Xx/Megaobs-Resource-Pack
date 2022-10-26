@@ -1,16 +1,38 @@
-# Megaobs Resource Pack
+<p align="center">
+    <h1 align="center">Megaobs Resource Pack v4.0</h1>
+    <h1 align="center">Vanilla/Survival Pack Version</h1>
+</p>
 
 (!) If you're using the public version, **do not extract** the files in **the ZIP**!
 
-[Invalid Download]
+- [Discord](https://discord.gg/pnwNDhX7AU) | [Website](https://xxbob05xx.github.io/)
 
-[Discord](https://discord.gg/pnwNDhX7AU)
+| MC Versions                                                                                                             | 1.19 | 1.18 | 1.17 | 1.16 | 1.15 | 1.14 | 1.13 | 1.12 | 1.11 and older |
+| :-------------------------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :------------: |
+| Available                                            |  ![Coming Soon](https://cdn.discordapp.com/emojis/724371447132454953.gif?size=32)  |  ✅  |  ✅  |  ✅  |  ❔  |  ❔  |  ❔  |  ❌  |       ❌       |
 
-[Website](https://xxbob05xx.github.io/)
+## How to get it?
+For have the resource pack, join in our [discord](https://discord.gg/pnwNDhX7AU).
+### Methods
+1. Leveling to **level 10**
+- To level up you need to **write in chats**
+2. Boosting
+- **Boosting** the server will **bypass the first method**
 
-# Added Items/Blocks List
+## Common Questions
 
-## Custom Blocks
+- Custom Items/Blocks/Models doesn't work/show, how to fix it?
+Do you have Optifine?
+Have you set the settings regularly?
+
+## Recommended game settings
+
+ - Language > English (US)
+ - Video Settings![Detail Settings](https://i.imgur.com/ErL1nlQ.png)
+![Quality Settings](https://i.imgur.com/nYmqwXy.png)
+## Added Items/Blocks List
+
+### Custom Blocks
 ```
 Redstone Lamp (on) + Colored Concrete = Colored Redstone Lamp
 Green Concrete + Magenta Glazed Terracotta = Green Screen
@@ -18,7 +40,7 @@ Blue Screen = Coming Soon...
 Red Screen = Coming Soon...
 ```
 
-## Swords
+### Swords
 ```
 Gray Katana › Iron, Diamond, Netherite
 Black Wakizashi › Iron, Diamond, Netherite
@@ -54,25 +76,25 @@ Pearl of end Essential › Netherite
 Memory of Verity › Netherite
 ```
 
-## Rifles
-(!) Cannot get in Survival
+### Rifles
+*(!) Cannot get in Survival*
 
-## Axes
+### Axes
 ```
 Nether Netherite Axe › Netherite
 Bloody Machete › Iron, Diamond, Netherite
 ```
 
-## Shields
+### Shields
 ```
 Arm Shield
 WoodShield
 ```
 
-## Elytras
+### Elytras
 *In the resource pack, but is in Beta*
 
-## Foderas
+### Foderas
 ```
 Item: Stick
 
@@ -84,7 +106,7 @@ xXbob05Xx Katana Fodera
 MKBTM Fodera
 ```
 
-## Armors
+### Armors
 ```
 Ninja {
   Hood › Helmet (Iron, Diamond, Netherite)
@@ -107,17 +129,17 @@ Invisible {
 }
 ```
 
-## Tools
+### Tools
 ```
 Prismarine Glove › Pickaxe (Diamond)
 ```
 
-## Crossbow/Bows
+### Crossbow/Bows
 ```
 Glock 19 › Crossbow
 ```
 
-## Cosmetics
+### Cosmetics
 ```
 Item: Carved Pumpkin
 
@@ -131,7 +153,7 @@ Ganyu Horns
 Power Horns
 ```
 
-## Special Items
+### Special Items
 ```
 Polaroid › Paper
 Polaroid Pic › Paper
@@ -140,9 +162,9 @@ Polaroid Pic › Paper
 Monster Energy › Paper, Potion, Splash_Potion
 ```
 
-## Per Player Setups
+### Per Player Setups
 
-### xX_bob05_Xx's (Owner) Setup
+#### xX_bob05_Xx's (Owner) Setup
 ```
 Blue Dark Demon Blade › Sword (Iron, Diamond, Netherite)
 xXbob05Xx Katana › Sword (Iron, Diamond, Netherite)
@@ -160,7 +182,7 @@ Occult Doctor › Carved Pumpkin
 Occult Doctor 2 › Carved Pumpkin
 ```
 
-### Star's (Ideas + Friend) Setup
+#### Star's (Ideas + Friend) Setup
 ```
 Nightmare › Axe (Netherite)
 Nightmare › Sword (Netherite)
@@ -169,7 +191,7 @@ Cursed Star Mask › Carved Pumpkin
 MKBTM › Sword (Iron, Diamond, Netherite)
 ```
 
-### Bluescreen_exe (Ideas + Models + Friend) Setup
+#### Bluescreen_exe (Ideas + Models + Friend) Setup
 ```
 Nightmare › Axe (Netherite)
 Nightmare › Sword (Netherite)
@@ -177,7 +199,7 @@ Star Mask › Carved Pumpkin
 Cursed Star Mask › Carved Pumpkin
 ```
 
-### Kii-chan (Ideas + Friend) Setup
+#### Kii-chan (Ideas + Friend) Setup
 ```
 Kii-chan Devil ['Demon Horn'] » Carved Pumpkin
 ```
